@@ -1,3 +1,3 @@
-process raw kinect data
+create velocity profiles
 ROS_msg in: 
 ROS_msg out:
