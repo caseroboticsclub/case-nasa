@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "steering")
+set(steering_MAINTAINER "saruman <saruman@todo.todo>")
+set(steering_DEPRECATED "")
+set(steering_VERSION "0.0.0")
+set(steering_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(steering_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(steering_BUILDTOOL_DEPENDS "catkin")

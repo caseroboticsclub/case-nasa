@@ -1,0 +1,2 @@
+actuator:commander:constants:dig:imu:kinect:logging:motor_driver:odom:planning:power:slam:soft_estop:steering:ui:usbcam:velocity_profiling:wifi
+-DCATKIN_DEVEL_PREFIX=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/devel -DCMAKE_INSTALL_PREFIX=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/install -G Unix Makefiles

@@ -1,0 +1,6 @@
+set(init_SETUP_PY_VERSION "0.0.0")
+set(init_SETUP_PY_SCRIPTS "")
+set(init_SETUP_PY_PACKAGES "python_init")
+set(init_SETUP_PY_PACKAGE_DIRS "src/python_init")
+set(init_SETUP_PY_MODULES "")
+set(init_SETUP_PY_MODULE_DIRS "")

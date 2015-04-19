@@ -1,3 +1,0 @@
-process raw kinect data
-ROS_msg in: 
-ROS_msg out:

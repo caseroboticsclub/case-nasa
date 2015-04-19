@@ -1,0 +1,10 @@
+from distutils.core import setup
+from catkin_pkg.python_setup import generate_distutils_setup
+
+#retrieve values from package.xml
+setup_args = generate_distutils_setup(
+    packages=['python_motor_driver_package'],
+    package_dir={'': 'src'},
+)
+
+setup(**setup_args)

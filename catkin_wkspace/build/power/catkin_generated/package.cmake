@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "power")
+set(power_MAINTAINER "saruman <saruman@todo.todo>")
+set(power_DEPRECATED "")
+set(power_VERSION "0.0.0")
+set(power_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(power_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(power_BUILDTOOL_DEPENDS "catkin")

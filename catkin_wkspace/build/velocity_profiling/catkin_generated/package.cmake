@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "velocity_profiling")
+set(velocity_profiling_MAINTAINER "saruman <saruman@todo.todo>")
+set(velocity_profiling_DEPRECATED "")
+set(velocity_profiling_VERSION "0.0.0")
+set(velocity_profiling_BUILD_DEPENDS "constants" "rospy" "std_msgs")
+set(velocity_profiling_RUN_DEPENDS "constants" "rospy" "std_msgs")
+set(velocity_profiling_BUILDTOOL_DEPENDS "catkin")

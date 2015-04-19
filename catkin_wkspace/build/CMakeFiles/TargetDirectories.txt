@@ -1,0 +1,9 @@
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/CMakeFiles/clean_test_results.dir
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/CMakeFiles/doxygen.dir
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/gtest/CMakeFiles/gtest.dir
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/gtest/CMakeFiles/gtest_main.dir
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/CMakeFiles/run_tests.dir
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/constants/CMakeFiles/std_msgs_generate_messages_cpp.dir
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/constants/CMakeFiles/std_msgs_generate_messages_lisp.dir
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/constants/CMakeFiles/std_msgs_generate_messages_py.dir
+/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/CMakeFiles/tests.dir

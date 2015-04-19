@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "commander")
+set(commander_MAINTAINER "saruman <saruman@todo.todo>")
+set(commander_DEPRECATED "")
+set(commander_VERSION "0.0.0")
+set(commander_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(commander_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(commander_BUILDTOOL_DEPENDS "catkin")

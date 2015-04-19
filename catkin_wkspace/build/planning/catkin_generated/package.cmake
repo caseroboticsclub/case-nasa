@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "planning")
+set(planning_MAINTAINER "saruman <saruman@todo.todo>")
+set(planning_DEPRECATED "")
+set(planning_VERSION "0.0.0")
+set(planning_BUILD_DEPENDS "constants" "rospy" "std_msgs")
+set(planning_RUN_DEPENDS "constants" "rospy" "std_msgs")
+set(planning_BUILDTOOL_DEPENDS "catkin")

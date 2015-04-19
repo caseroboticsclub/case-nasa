@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "init")
+set(init_MAINTAINER "saruman <saruman@todo.todo>")
+set(init_DEPRECATED "")
+set(init_VERSION "0.0.0")
+set(init_BUILD_DEPENDS "rospy" "std_msgs")
+set(init_RUN_DEPENDS "rospy" "std_msgs")
+set(init_BUILDTOOL_DEPENDS "catkin")

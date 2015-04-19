@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "receiver")
+set(receiver_MAINTAINER "saruman <saruman@todo.todo>")
+set(receiver_DEPRECATED "")
+set(receiver_VERSION "0.0.0")
+set(receiver_BUILD_DEPENDS "rospy" "std_msgs")
+set(receiver_RUN_DEPENDS "rospy" "std_msgs")
+set(receiver_BUILDTOOL_DEPENDS "catkin")

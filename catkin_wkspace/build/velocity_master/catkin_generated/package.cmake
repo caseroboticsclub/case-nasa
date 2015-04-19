@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "velocity_master")
+set(velocity_master_MAINTAINER "saruman <saruman@todo.todo>")
+set(velocity_master_DEPRECATED "")
+set(velocity_master_VERSION "0.0.0")
+set(velocity_master_BUILD_DEPENDS "rospy" "std_msgs")
+set(velocity_master_RUN_DEPENDS "rospy" "std_msgs")
+set(velocity_master_BUILDTOOL_DEPENDS "catkin")

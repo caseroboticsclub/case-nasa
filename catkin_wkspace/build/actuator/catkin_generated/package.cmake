@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "actuator")
+set(actuator_MAINTAINER "saruman <saruman@todo.todo>")
+set(actuator_DEPRECATED "")
+set(actuator_VERSION "0.0.0")
+set(actuator_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(actuator_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(actuator_BUILDTOOL_DEPENDS "catkin")

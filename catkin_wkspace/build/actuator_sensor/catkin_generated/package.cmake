@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "actuator_sensor")
+set(actuator_sensor_MAINTAINER "saruman <saruman@todo.todo>")
+set(actuator_sensor_DEPRECATED "")
+set(actuator_sensor_VERSION "0.0.0")
+set(actuator_sensor_BUILD_DEPENDS "rospy" "std_msgs")
+set(actuator_sensor_RUN_DEPENDS "rospy" "std_msgs")
+set(actuator_sensor_BUILDTOOL_DEPENDS "catkin")

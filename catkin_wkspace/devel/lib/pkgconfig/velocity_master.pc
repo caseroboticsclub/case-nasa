@@ -1,0 +1,8 @@
+prefix=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/devel
+
+Name: velocity_master
+Description: Description of velocity_master
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/devel/lib 
+Requires: 

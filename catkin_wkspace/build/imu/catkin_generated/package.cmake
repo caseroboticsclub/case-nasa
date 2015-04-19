@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "imu")
+set(imu_MAINTAINER "saruman <saruman@todo.todo>")
+set(imu_DEPRECATED "")
+set(imu_VERSION "0.0.0")
+set(imu_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(imu_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(imu_BUILDTOOL_DEPENDS "catkin")

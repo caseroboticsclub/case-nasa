@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "slam")
+set(slam_MAINTAINER "saruman <saruman@todo.todo>")
+set(slam_DEPRECATED "")
+set(slam_VERSION "0.0.0")
+set(slam_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(slam_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(slam_BUILDTOOL_DEPENDS "catkin")

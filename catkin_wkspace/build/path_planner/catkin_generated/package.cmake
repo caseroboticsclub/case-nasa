@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "path_planner")
+set(path_planner_MAINTAINER "saruman <saruman@todo.todo>")
+set(path_planner_DEPRECATED "")
+set(path_planner_VERSION "0.0.0")
+set(path_planner_BUILD_DEPENDS "rospy" "std_msgs")
+set(path_planner_RUN_DEPENDS "rospy" "std_msgs")
+set(path_planner_BUILDTOOL_DEPENDS "catkin")

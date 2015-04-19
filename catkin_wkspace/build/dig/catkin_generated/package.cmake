@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "dig")
+set(dig_MAINTAINER "saruman <saruman@todo.todo>")
+set(dig_DEPRECATED "")
+set(dig_VERSION "0.0.0")
+set(dig_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(dig_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(dig_BUILDTOOL_DEPENDS "catkin")

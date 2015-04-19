@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "motor_driver")
+set(motor_driver_MAINTAINER "saruman <saruman@todo.todo>")
+set(motor_driver_DEPRECATED "")
+set(motor_driver_VERSION "0.0.0")
+set(motor_driver_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(motor_driver_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(motor_driver_BUILDTOOL_DEPENDS "catkin")

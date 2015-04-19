@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "soft_estop")
+set(soft_estop_MAINTAINER "saruman <saruman@todo.todo>")
+set(soft_estop_DEPRECATED "")
+set(soft_estop_VERSION "0.0.0")
+set(soft_estop_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(soft_estop_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(soft_estop_BUILDTOOL_DEPENDS "catkin")

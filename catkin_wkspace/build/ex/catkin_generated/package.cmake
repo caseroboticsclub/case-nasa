@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ex")
+set(ex_MAINTAINER "saruman <saruman@todo.todo>")
+set(ex_DEPRECATED "")
+set(ex_VERSION "0.0.0")
+set(ex_BUILD_DEPENDS "rospy" "std_msgs" "message_generation")
+set(ex_RUN_DEPENDS "rospy" "std_msgs" "message_runtime")
+set(ex_BUILDTOOL_DEPENDS "catkin")

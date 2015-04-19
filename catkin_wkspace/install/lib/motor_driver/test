@@ -1,0 +1,6 @@
+#! /usr/bin/env python
+
+import python_motor_driver_package.saber_driver
+
+if __name__ == '__main__':
+    python_motor_driver_package.saber_driver.send_command('go!')

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ui")
+set(ui_MAINTAINER "saruman <saruman@todo.todo>")
+set(ui_DEPRECATED "")
+set(ui_VERSION "0.0.0")
+set(ui_BUILD_DEPENDS "rospy" "std_msgs" "constants")
+set(ui_RUN_DEPENDS "rospy" "std_msgs" "constants")
+set(ui_BUILDTOOL_DEPENDS "catkin")
