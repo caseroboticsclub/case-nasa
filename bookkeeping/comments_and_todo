@@ -1,0 +1,10 @@
+************GENERAL "FIXME/FIND-OUT" COMMENTARY************
+
+-is it possible to define constants within a package which would be visible to all nodes in the package
+and which could be imported by nodes in other packages? (example: names of messages, calibration constants)
+
+-PID loops on PRU (BBB):
+    1. motor drivers for drive wheels
+    2. actuator for dig wheel (control w/ pwm to relays)
+
+-soft_stop error handler: for actuator, attempt to go in the correcion direction, or just stop?
