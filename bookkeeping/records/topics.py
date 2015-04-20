@@ -5,10 +5,10 @@ user_input_topic = "user_keyboard_input" # user commands gathered from the keybo
     subscribers: wifi_sender
     message_type:
 
-wifi_topic = "wifi"
-    publisher: wifi_sender
-    subscribers: wifi_receiver
-    message_type:
+#wifi_topic = "wifi"
+#    publisher: wifi_sender
+#    subscribers: wifi_receiver
+#    message_type:
 
 user_commands_topic = "user_commands_received" # user commands after being received by robot over wifi
     publisher: wifi_receiver
