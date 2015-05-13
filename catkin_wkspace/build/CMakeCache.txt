@@ -317,6 +317,9 @@ genmsg_DIR:PATH=/opt/ros/indigo/share/genmsg/cmake
 //The directory containing a CMake configuration file for genpy.
 genpy_DIR:PATH=/opt/ros/indigo/share/genpy/cmake
 
+//The directory containing a CMake configuration file for geometry_msgs.
+geometry_msgs_DIR:PATH=/opt/ros/indigo/share/geometry_msgs/cmake
+
 //Value Computed by CMake
 gtest_BINARY_DIR:STATIC=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/gtest
 
@@ -362,6 +365,12 @@ kinect_SOURCE_DIR:STATIC=/home/saruman/workspaces/ros_workspace/case_robotics/na
 
 //Path to a library.
 lib:FILEPATH=/opt/ros/indigo/lib/librostime.so
+
+//Value Computed by CMake
+load_cell_BINARY_DIR:STATIC=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/load_cell
+
+//Value Computed by CMake
+load_cell_SOURCE_DIR:STATIC=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/src/load_cell
 
 //Value Computed by CMake
 logging_BINARY_DIR:STATIC=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/logging
@@ -428,6 +437,9 @@ sender_BINARY_DIR:STATIC=/home/saruman/workspaces/ros_workspace/case_robotics/na
 
 //Value Computed by CMake
 sender_SOURCE_DIR:STATIC=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/src/sender
+
+//The directory containing a CMake configuration file for sensor_msgs.
+sensor_msgs_DIR:PATH=/opt/ros/indigo/share/sensor_msgs/cmake
 
 //Value Computed by CMake
 slam_BINARY_DIR:STATIC=/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build/slam
@@ -605,7 +617,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=20
+CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=21
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

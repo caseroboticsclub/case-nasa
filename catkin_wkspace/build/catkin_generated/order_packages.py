@@ -2,4 +2,4 @@
 source_root_dir = "/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/src"
 whitelisted_packages = "".split(';') if "" != "" else []
 blacklisted_packages = "".split(';') if "" != "" else []
-underlay_workspaces = "/opt/ros/indigo".split(';') if "/opt/ros/indigo" != "" else []
+underlay_workspaces = "/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/devel;/opt/ros/indigo".split(';') if "/home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/devel;/opt/ros/indigo" != "" else []

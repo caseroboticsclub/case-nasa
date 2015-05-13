@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "load_cell")
+set(load_cell_MAINTAINER "saruman <saruman@todo.todo>")
+set(load_cell_DEPRECATED "")
+set(load_cell_VERSION "0.0.0")
+set(load_cell_BUILD_DEPENDS "constants" "rospy" "std_msgs")
+set(load_cell_RUN_DEPENDS "constants" "rospy" "std_msgs")
+set(load_cell_BUILDTOOL_DEPENDS "catkin")

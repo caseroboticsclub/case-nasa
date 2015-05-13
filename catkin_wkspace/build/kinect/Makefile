@@ -152,6 +152,90 @@ depend:
 	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
+# Convenience name for target.
+kinect/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f CMakeFiles/Makefile2 kinect/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule
+.PHONY : kinect/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+geometry_msgs_generate_messages_cpp: kinect/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule
+.PHONY : geometry_msgs_generate_messages_cpp
+
+# fast build rule for target.
+geometry_msgs_generate_messages_cpp/fast:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f kinect/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make kinect/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
+.PHONY : geometry_msgs_generate_messages_cpp/fast
+
+# Convenience name for target.
+kinect/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f CMakeFiles/Makefile2 kinect/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule
+.PHONY : kinect/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+geometry_msgs_generate_messages_lisp: kinect/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule
+.PHONY : geometry_msgs_generate_messages_lisp
+
+# fast build rule for target.
+geometry_msgs_generate_messages_lisp/fast:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f kinect/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make kinect/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build
+.PHONY : geometry_msgs_generate_messages_lisp/fast
+
+# Convenience name for target.
+kinect/CMakeFiles/geometry_msgs_generate_messages_py.dir/rule:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f CMakeFiles/Makefile2 kinect/CMakeFiles/geometry_msgs_generate_messages_py.dir/rule
+.PHONY : kinect/CMakeFiles/geometry_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+geometry_msgs_generate_messages_py: kinect/CMakeFiles/geometry_msgs_generate_messages_py.dir/rule
+.PHONY : geometry_msgs_generate_messages_py
+
+# fast build rule for target.
+geometry_msgs_generate_messages_py/fast:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f kinect/CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make kinect/CMakeFiles/geometry_msgs_generate_messages_py.dir/build
+.PHONY : geometry_msgs_generate_messages_py/fast
+
+# Convenience name for target.
+kinect/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f CMakeFiles/Makefile2 kinect/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
+.PHONY : kinect/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_cpp: kinect/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
+.PHONY : sensor_msgs_generate_messages_cpp
+
+# fast build rule for target.
+sensor_msgs_generate_messages_cpp/fast:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f kinect/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make kinect/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
+.PHONY : sensor_msgs_generate_messages_cpp/fast
+
+# Convenience name for target.
+kinect/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f CMakeFiles/Makefile2 kinect/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
+.PHONY : kinect/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_lisp: kinect/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
+.PHONY : sensor_msgs_generate_messages_lisp
+
+# fast build rule for target.
+sensor_msgs_generate_messages_lisp/fast:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f kinect/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make kinect/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
+.PHONY : sensor_msgs_generate_messages_lisp/fast
+
+# Convenience name for target.
+kinect/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f CMakeFiles/Makefile2 kinect/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
+.PHONY : kinect/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_py: kinect/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
+.PHONY : sensor_msgs_generate_messages_py
+
+# fast build rule for target.
+sensor_msgs_generate_messages_py/fast:
+	cd /home/saruman/workspaces/ros_workspace/case_robotics/nasa/catkin_wkspace/build && $(MAKE) -f kinect/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make kinect/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
+.PHONY : sensor_msgs_generate_messages_py/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,11 +243,17 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... edit_cache"
+	@echo "... geometry_msgs_generate_messages_cpp"
+	@echo "... geometry_msgs_generate_messages_lisp"
+	@echo "... geometry_msgs_generate_messages_py"
 	@echo "... install"
 	@echo "... install/local"
 	@echo "... install/strip"
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
+	@echo "... sensor_msgs_generate_messages_cpp"
+	@echo "... sensor_msgs_generate_messages_lisp"
+	@echo "... sensor_msgs_generate_messages_py"
 	@echo "... test"
 .PHONY : help
 
